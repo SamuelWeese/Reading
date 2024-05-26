@@ -1,10 +1,10 @@
 
 
 # Table of Contents
-1. [Explanation] (#explanation)
+1. [Explanation](#explanation)
 1. [To Read](#to-read)
 2. [May](#may)
-3. [Before The List] (#before-the-list)
+3. [Before The List](#before-the-list)
 3. [P Elwood](#p-elwood)
 
 
