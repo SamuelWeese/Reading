@@ -52,9 +52,11 @@ Below is a series of books I have marked to read. I initially thought to put who
 ## June 
 
 - Brides Head Revisited (r:EnglishOrMath)
+
 Excellent story, but deeply unsatisfying. Doesn't have a happy ending.
 
 - Unrestricted Warefare (r:Friedman)
+
 The Chinese have a brutal, brutal way of phrasing things, it took forever to read this. Reflects modern day Russian tactics too.
 
 ## July
@@ -63,7 +65,8 @@ The Chinese have a brutal, brutal way of phrasing things, it took forever to rea
 ## August
 - TODO
 
-## September 
+## September
+
 - None read, life is hectic again.
 
 ## Before The List
