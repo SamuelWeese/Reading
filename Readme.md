@@ -19,29 +19,27 @@ Below is a series of books I have marked to read. I initially thought to put who
 ### Books
 
 - Mystic Eye of Shiva (r:TopologistGunner)
-- The HP Way (r: Friedman)
-- Brides Head Revisited (r:EnglishOrMath)
+- The HP Way (r:Friedman)
 - From the Garden to The City (r:Chewsday)
 - People of the Screen (r:Chewsday)
 - A Praying Life (r:SunEvangelist)
 - Practice of the Presence of God (r:SunEvangelist)
-- Unrestricted Warefare (r: Friedman)
-- Mythical Man Month (r: Friedman)
-- Paradise Restored (r: JazzyDrinker)
-- Real Analysis (r: LeadArms)
-- Scoop (r: Evelyn Waugh)
+- Mythical Man Month (r:Friedman)
+- Paradise Restored (r:JazzyDrinker)
+- Real Analysis (r:LeadArms)
+- Scoop (r:EveAndWaugh)
 
 
 ### Authors
 
-- Paul Stamets (r: LeadArms)
-- Evelyn Waugh (r: Friedman)
+- Paul Stamets (r:LeadArms)
+- Evelyn Waugh (r:Friedman)
 
 ### Studies
 
-- Prayer Life of Christ (r: SunEvangelist)
-- Every time Christ Fasted (r: SunEvangelist)
-- Fasting (r: AngelFragger)
+- Prayer Life of Christ (r:SunEvangelist)
+- Every time Christ Fasted (r:SunEvangelist)
+- Fasting (r:AngelFragger)
 
 ## May
 
@@ -50,6 +48,23 @@ Below is a series of books I have marked to read. I initially thought to put who
 - All Quiet on the Western Front (r:Cowpoke)
 - Paranoia GM Handbook (r:me, 2x)
 - Moonwalking with Einstein (r:CurlyPlane)
+
+## June 
+
+- Brides Head Revisited (r:EnglishOrMath)
+Excellent story, but deeply unsatisfying. Doesn't have a happy ending.
+
+- Unrestricted Warefare (r:Friedman)
+The Chinese have a brutal, brutal way of phrasing things, it took forever to read this. Reflects modern day Russian tactics too.
+
+## July
+- TODO
+
+## August
+- TODO
+
+## September 
+- None read, life is hectic again.
 
 ## Before The List
 
